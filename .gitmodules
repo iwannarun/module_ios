@@ -1,0 +1,3 @@
+[submodule "easy4tools"]
+	path = easy4tools
+	url = https://github.com/iwannarun/easy4tools.git
